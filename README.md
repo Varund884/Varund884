@@ -42,7 +42,3 @@
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varund884&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="varund884" />  
 </p>  
-
-<p align="center">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varund884&theme=highcontrast" alt="varund884" />
-</p>  
