@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Dawrha</h1>  
 <h3 align="center">🔧 Learning • 🏗️ Building • 🤝 Sharing | 🤖 Passionate About AI & 💻 Software Development</h3>  
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varund884&theme=onedark&row=1&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Experience" alt="varund884" />
-  </a>
-</p>
-
 <p align="center">📫 How to reach me → <b>varundawrhasj@gmail.com</b></p>  
 
 <p align="center">⚡ Fun fact → I don’t drink coffee ☕ but can still stay up all night coding 💻🌙.</p>  
@@ -32,9 +25,6 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
 </p>  
 
 ---
